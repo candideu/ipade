@@ -4,7 +4,7 @@ var interfaceConfig = {
   "OFMEET_ALLOW_UPLOADS": false,
   "OFMEET_ENABLE_CAPTIONS": false,
   "SHOW_POWERED_BY": false,
-  "APP_NAME": "Pade Meetings",
+  "APP_NAME": "Candide Meetings", //changed, in title
   "OFMEET_ENABLE_BREAKOUT": false,
   "SHOW_PROMOTIONAL_CLOSE_PAGE": false,
   "SHADOW_COLOR": "#ffffff",
@@ -31,7 +31,7 @@ var interfaceConfig = {
     "chat",
     "recording",
     "livestreaming",
-    "etherpad",
+    // "etherpad", //changed
     "sharedvideo",
     "shareaudio",
     "settings",
@@ -79,18 +79,18 @@ var interfaceConfig = {
   "filmStripOnly": false,
   "REMOTE_THUMBNAIL_RATIO": 1,
   "AUTO_PIN_LATEST_SCREEN_SHARE": "false",
-  "OFMEET_WELCOME_PAGE_TITLE": "Pade Meetings",
+  "OFMEET_WELCOME_PAGE_TITLE": "Candide Meetings", //changed
   "OFMEET_CONFETTI_EMOTICON_CLOSE_MENU": true,
   "OFMEET_STARTWITH_TRANSCRIPTION_DISABLED": true,
   "HIDE_INVITE_MORE_HEADER": true,
   "DEFAULT_BACKGROUND": "#474747",
   "BRAND_WATERMARK_LINK": "",
   "DISABLE_FOCUS_INDICATOR": false,
-  "OFMEET_ENABLE_CRYPTPAD": true,
+  "OFMEET_ENABLE_CRYPTPAD": false, //changed
   "VERTICAL_FILMSTRIP": true,
   "IN_PROGRESS_LIST_ENABLED": true,
   "OFMEET_CONTACTS_MGR": false,
-  "OFMEET_ENABLE_WHITEBOARD": true,
+  "OFMEET_ENABLE_WHITEBOARD": false, //changed
   "OFMEET_RECORD_CONFERENCE": true,
   "CANVAS_RADIUS": 7,
   "ENABLE_FEEDBACK_ANIMATION": false,
