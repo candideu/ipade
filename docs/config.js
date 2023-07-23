@@ -5,7 +5,7 @@ var config = {
   "defaultSipNumber": "",
   "enableRtpStats": true,
   "noticeMessage": "",
-  "enableRecording": false,
+  "enableRecording": true, //changed
   "resolution": 720,
   "constraints": {"video": {
     "width": {
