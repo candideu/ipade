@@ -105,7 +105,7 @@ var config = {
   "webrtcIceUdpDisable": false,
   "disableSimulcast": true,
   "startAudioOnly": false,
-  "ofmeetLiveStream": false,
+  "ofmeetLiveStream": true, //changed
   "focusUserJid": "focus@pade.chat",
   "isBrand": false
 };
